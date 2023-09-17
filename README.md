@@ -1,4 +1,13 @@
+
 ### Hi there 👋
+
+My day jobs include Software Engineering, Engineering Management, Technical Leadership and more details are in my [LinkedIn profile](linkedin.com/in/srirampanyam).  I am currently CTO of a DevOps and Runbook automation startup - [DagKnows](dagknows.com).
+
+### Interests
+
+My interests are in languages, distributed systems, building control planes and I like to dabble in a bunch of things.  Some of my special projects are:
+
+[Notations](github.com/panyam/notations) -  A carnatic music notationing, editing and renderling library.  It is currently live at [Notations.us](notations.us)
 
 <!--
 **panyam/panyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
