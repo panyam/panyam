@@ -11,7 +11,7 @@ My personal blog is [BuildMage](https://buildmage.com).  I love writing about la
 
 My interests are in programming languages (PL), distributed systems, building control planes and a bunch of things.  Some of my special projects are:
 
-[OneHub](https://github.com/panyam/onehub) - A basic Kitchen Sink kind of chat app for testing different things from distributed log replication to, message integrations, to building modern go webservices and more.
+[OneHub](https://github.com/panyam/onehub) - A basic Kitchen Sink kind of chat app for testing different things from distributed log replication to message integrations to building modern go webservices and more.
 
 [Notations](https://github.com/panyam/notations) -  A carnatic music notationing, editing and renderling library.  It is currently live at [Notations.us](https://notations.us).
 
