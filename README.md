@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-My day jobs include Software Engineering, Engineering Management, Technical Leadership and more details are in my [LinkedIn profile](https://linkedin.com/in/srirampanyam).  I am currently the Founding Engineer and Chief Architect of [Omlet](https://omlet.co) - Our vision is for Omlet to be the all-in-one framework for capturing and managing telemetry data with the power of OpenTelemetry.
+My day jobs include Software Engineering, Engineering Management, Technical Leadership and more details are in my [LinkedIn profile](https://linkedin.com/in/srirampanyam).
 
 ### Personal Blog
 
